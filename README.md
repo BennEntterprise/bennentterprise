@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on ... Open source privacy tools
 - 📫 How to reach me: ... Twitter: @kylebennett1123
 - 😄 Pronouns: He/Him
+
+![Visitor Count](https://profile-counter.glitch.me/{bennentterprise}/count.svg)
 <!--
 **BennEntterprise/bennentterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
