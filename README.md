@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Interal Applications for Vertical Farming with @Robotany
+- 🔭 I’m currently working on ... Interal Applications for Vertical Farming with [@Robotany](https://github.com/robotany)
 - 🌱 I’m currently learning ... Advanced React/Typescript patterns, Linux Distros (Raspbian, Ubuntu, Kali), Game Design
 - 👯 I’m looking to collaborate on ... Open source privacy tools
 - 📫 How to reach me: ... Twitter: @kylebennett1123
