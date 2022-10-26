@@ -3,7 +3,10 @@
 - 🔭 I’m currently working on ... Internal Applications for Vertical Farming with [@Robotany](https://github.com/robotany)
 - 🌱 I’m currently learning ... Advanced React/Typescript patterns, Linux Distros (Raspbian, Ubuntu, Kali), Game Design
 - 👯 I’m looking to collaborate on ... Open source privacy tools
-- 📫 How to reach me: ... Twitter: @kylebennett1123
+- 📫 How to reach me: ... 
+  - Twitter: @kylebennett1123
+  - LinkedIn: https://www.linkedin.com/in/kyle-bennett-pittsburgh-pa/
+  - Codepen: https://codepen.io/coderkyle
 - 😄 Pronouns: He/Him
 
 ![Visitor Count](https://profile-counter.glitch.me/{bennentterprise}/count.svg)
