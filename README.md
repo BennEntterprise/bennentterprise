@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Internal Applications for Vertical Farming with [@Robotany](https://github.com/robotany)
-- 🌱 I’m currently learning ... Advanced React/Typescript patterns, Linux Distros (Raspbian, Ubuntu, Kali), Game Design
+- 🔭 I’m currently working on ... writing code for [Deeplocal](https://deeplocal.com)/[Gumband](https://gumband.com)
+- 🌱 I’m currently learning ... Advanced React/Typescript patterns, Linux Distros (Raspbian, Ubuntu, Kali), Plex
 - 👯 I’m looking to collaborate on ... Open source privacy tools
 - 📫 How to reach me: ... 
   - Twitter: [@kylebennett1123](https://twitter.com/KyleBennett1123)
