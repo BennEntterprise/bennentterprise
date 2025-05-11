@@ -1,5 +1,46 @@
-<!-- [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,jest,html,css,postgres,mongodb,git,github,docker)]([https://linkedin.com/in/kyle-bennett-](https://www.linkedin.com/in/kyle-bennett-pittsburgh-pa/)) -->
+<!-- If you like the Icons, you can add some yourself using: https://github.com/tandpfun/skill-icons#readme -->
+<!-- 
+(Items with brackets, mean they aren't available in skillicons yet)
+### Packaging with:
+[turborepo]
 
+### Documenting with
+[docusaurus]
+-->
+<!--
+### OSing With
+![OsSkills](https://skillicons.dev/icons?i=apple,linux,ubuntu,raspberrypi,kali)
+
+### Editing With
+![BuildingWithSkills](https://skillicons.dev/icons?i=vscode,vim)
+
+### Building With
+![BuildingWithSkills](https://skillicons.dev/icons?i=html,css,js,react)
+![BuildingWithSkills](https://skillicons.dev/icons?i=sass,materialui,tailwind,vite,webpack,bootstrap,redux)
+![BuildingWithSkills](https://skillicons.dev/icons?i=ts,nodejs,docker,electron,express,sequelize,redis)
+![BuildingWithSkills](https://skillicons.dev/icons?i=py)
+
+### Packaging With
+![BuildingWithSkills](https://skillicons.dev/icons?i=npm,yarn,pnpm)
+
+### Documenting With 
+![BuildingWithSkills](https://skillicons.dev/icons?i=md)
+
+### Clouding With
+![BuildingWithSkills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,nginx,heroku,vercel)
+
+### Testing With
+![BuildingWithSkills](https://skillicons.dev/icons?i=postman,jest,cypress)
+
+### Tinkering With
+![BuildingWithSkills](https://skillicons.dev/icons?i=codepen,figma)
+
+### Persisting With
+![BuildingWithSkills](https://skillicons.dev/icons?i=sqlite,postgres,mongodb)
+
+### Tracking With
+![BuildingWithSkills](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab)
+--->
 
 ### Hi There 👋
 - 😄 Pronouns: He/Him
@@ -23,3 +64,4 @@
   - Economics
   
 ![Visitor Count](https://profile-counter.glitch.me/{bennentterprise}/count.svg)
+
