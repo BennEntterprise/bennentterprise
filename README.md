@@ -46,8 +46,8 @@
 - 😄 Pronouns: He/Him
 - 👔 I'm the CEO of [Absolutely Nothing Inc.](https://absolutelynothing.io)
 - 🔭 I’m currently working on ...
-    0. [Gumband](https://www.gumband.com/) 
-    1. Building a consumer focused Data Brokerage + Some Freelance Full Stack Development Projects
+    0. [Revobo](https://www.revobo.com/) 
+    1. Reconciling Claude Configs between multiple machines with many projects
     2. Cleaning up my old repositories
 - 🌱 I’m currently learning ... Advanced React/Typescript patterns, Linux Distros (Raspbian, Ubuntu, Kali), Advanced Docker, Self-Hosting
 - 👯 I’m looking to collaborate on ... Open source privacy tools
